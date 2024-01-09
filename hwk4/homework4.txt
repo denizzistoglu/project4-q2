@@ -1,12 +1,14 @@
-Question A:
+Question A: //What are your git config commands?
+deniz@denizs-air ~ % git config --global user.name "denizzistoglu"
+deniz@denizs-air ~ % git config --global user.email "denizzistoglu04@hotmail.com"
+deniz@denizs-air ~ % git config --list
+Question B: //What files or directories are in your local .git directory?
 
-Question B:
+Question C: //Using markdown, how would you put a clickable link to your README.md to the web page of The Department of Software Engineering of Işık University
 
-Question C:
+Question D: //What rules are in your .gitignore?
 
-Question D:
-
-Question E:
+Question E: //
 
 Question F:
 
