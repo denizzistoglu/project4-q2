@@ -2,6 +2,7 @@ Question A: //What are your git config commands?
 deniz@denizs-air ~ % git config --global user.name "denizzistoglu"
 deniz@denizs-air ~ % git config --global user.email "denizzistoglu04@hotmail.com"
 deniz@denizs-air ~ % git config --list
+
 Question B: //What files or directories are in your local .git directory?
 deniz@Denizs-MacBook-Air ~ % git clone https://github.com/denizzistoglu/project4-q2.git
 Cloning into 'project4-q2'...
@@ -18,7 +19,12 @@ Untracked files:
 nothing added to commit but untracked files present (use "git add" to track)
 deniz@Denizs-MacBook-Air ~ % git log
 fatal: your current branch 'master' does not have any commits yet
-//show files or directories
+
+deniz@Denizs-MacBook-Air ~ % ls
+Applications		Downloads		Music			Public			project4-q2
+Desktop			Library			NetBeansProjects	denizzistoglu.
+Documents		Movies			Pictures		denizzistoglu.git
+
 Question C: //Using markdown, how would you put a clickable link to your README.md to the web page of The Department of Software Engineering of Işık University
 
 
