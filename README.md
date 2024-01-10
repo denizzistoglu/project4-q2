@@ -5,4 +5,4 @@ This was our first project in GitHub and git for both of us :smiley_cat:.
 We learned a lot in the process of making this project	:partying_face: :+1: .
 And we believe that skills and experiences like this are really important and will be super useful to us in work field:woman_technologist:. 
 We were really dedicated and focused on this project so we are hoping for a good grade :100:.  
-Here is the web page of The Department of Software Engineering of Işık University: [Işık University](https://www.isikun.edu.tr/akademik/muhendislik-fakultesi/bolumler-ve-programlar/bilgisayar-muhendisligi/programlar/lisans-programi/yazilim-muhendisligi ).
+Here is the web page of The Department of Software Engineering of Işık University: [Işık University Software Engineering Web Page](https://www.isikun.edu.tr/akademik/muhendislik-fakultesi/bolumler-ve-programlar/bilgisayar-muhendisligi/programlar/lisans-programi/yazilim-muhendisligi ).
