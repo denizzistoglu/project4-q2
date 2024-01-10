@@ -1,6 +1,7 @@
 Question A: //What are your git config commands?
 deniz@denizs-air ~ % git config --global user.name "denizzistoglu"
 deniz@denizs-air ~ % git config --global user.email "denizzistoglu04@hotmail.com"
+deniz@denizs-air ~ % git config --global core. editor "nano" 
 deniz@denizs-air ~ % git config --list
 
 Question B: //What files or directories are in your local .git directory?
@@ -26,12 +27,13 @@ Desktop			Library			NetBeansProjects	denizzistoglu.
 Documents		Movies			Pictures		denizzistoglu.git
 
 Question C: //Using markdown, how would you put a clickable link to your README.md to the web page of The Department of Software Engineering of Işık University
-
+Here is the web page of The Department of Software Engineering of Işık University: [Işık University Software Engineering Web Page](https://www.isikun.edu.tr/akademik/muhendislik-fakultesi/bolumler-ve-programlar/bilgisayar-muhendisligi/programlar/lisans-programi/yazilim-muhendisligi ).
 
 Question D: //What rules are in your .gitignore?
 
-Question E: //
 
-Question F:
+Question F: //What are all the commits you’ve made on the feature-1 branch? What files (and sub-directories, if any) are listed in your hmk1 directory on the feature-1 branch. What files (and sub-directories if any) are listed in your hmk1 directory on the main branch.
 
-Question G:
+Question J://What are all the commits you’ve made on the feature-2 branch?
+
+Question M://What are the differences between main and the other three branches? Hint: use git diff.
