@@ -34,13 +34,20 @@ deniz@Denizs-MacBook-Air ~ % touch .gitignore
 deniz@Denizs-MacBook-Air ~ % *.log //ignore all the files that have .log extension.
 deniz@Denizs-MacBook-Air ~ % temp //ignore all the files in the directory named temp. 
 
-Question F: //deniz@Denizs-MacBook-Air ~ % git branch feature-2 
+Question F: 
+//first how to create a branch feature-1:
+//deniz@Denizs-MacBook-Air ~ % git branch feature-1
+//how to commit file: 
+// git add .Hw4code.java
+// git commit -m "Add existing file"
+// git push origin feature-1
 //What are all the commits you’ve made on the feature-1 branch?
 Create homework
 Update homework 
 Create README
 Update README
 Commit file Hw4code.java
+
 //What files (and sub-directories, if any) are listed in your hmk1 directory on the feature-1 branch?
 feature-1
    hwk4
@@ -52,6 +59,12 @@ main
    hwk4
       homework4.txt
    README.md
-Question J://What are all the commits you’ve made on the feature-2 branch?
+Question J:
+//first to merge feature-1 and main:
+//git checkout feature-1
+//git pull origin main 
+//git merge feature-1
+
+//What are all the commits you’ve made on the feature-2 branch?
 
 Question M://What are the differences between the main and the other three branches? Hint: use git diff.
