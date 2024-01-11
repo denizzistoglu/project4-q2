@@ -78,4 +78,6 @@ Commit file Hw4code.java
 update Hw4code.java
 
 Question M://What are the differences between the main and the other three branches? Hint: use git diff.
-
+main and feature-3 have no difference
+main and feature-2
+main and feature-1 
