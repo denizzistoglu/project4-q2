@@ -42,9 +42,16 @@ Create README
 Update README
 Commit file Hw4code.java
 //What files (and sub-directories, if any) are listed in your hmk1 directory on the feature-1 branch?
-
-//What files (and sub-directories if any) are listed in your hmk1 directory on the main branch?
-
+feature-1
+   hwk4
+      Hw4code.java
+      homework4.txt
+   README.md
+//What files (and sub-directories if any) are listed in your hmk4 directory on the main branch?
+main
+   hwk4
+      homework4.txt
+   README.md
 Question J://What are all the commits you’ve made on the feature-2 branch?
 
 Question M://What are the differences between the main and the other three branches? Hint: use git diff.
