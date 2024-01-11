@@ -5,6 +5,7 @@ deniz@denizs-air ~ % git config --global core. editor "nano"
 deniz@denizs-air ~ % git config --list
 
 Question B: //What files or directories are in your local .git directory?
+//
 deniz@Denizs-MacBook-Air ~ % git clone https://github.com/denizzistoglu/project4-q2.git
 Cloning into 'project4-q2'...
 remote: Enumerating objects: 13, done.
@@ -27,6 +28,7 @@ Desktop			Library			NetBeansProjects	denizzistoglu.
 Documents		Movies			Pictures		denizzistoglu.git
 
 Question C: //Using markdown, how would you put a clickable link to your README.md to the web page of The Department of Software Engineering of Işık University
+
 Here is the web page of The Department of Software Engineering of Işık University: [Işık University Software Engineering Web Page](https://www.isikun.edu.tr/akademik/muhendislik-fakultesi/bolumler-ve-programlar/bilgisayar-muhendisligi/programlar/lisans-programi/yazilim-muhendisligi ).
 
 Question D: //What rules are in your .gitignore?
@@ -66,5 +68,15 @@ Question J:
 //git merge feature-1
 
 //What are all the commits you’ve made on the feature-2 branch?
+//first how to create a branch feature-1:
+//deniz@Denizs-MacBook-Air ~ % git branch feature-1 
+
+Create homework
+Update homework 
+Create README
+Update README
+Commit file Hw4code.java
+update Hw4code.java
 
 Question M://What are the differences between the main and the other three branches? Hint: use git diff.
+
