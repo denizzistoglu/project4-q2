@@ -23,6 +23,8 @@ public class Hw42 {
         System.out.println("Enter the second int");
         int second = input.nextInt();
         for(int i=first+1; i<second; i++){
-            System.out.println(i);
+            if(i%2=1){    
+               System.out.println(i);
+            }
         }
     }
