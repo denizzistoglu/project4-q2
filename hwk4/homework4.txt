@@ -30,10 +30,12 @@ Question C: //Using markdown, how would you put a clickable link to your README.
 Here is the web page of The Department of Software Engineering of Işık University: [Işık University Software Engineering Web Page](https://www.isikun.edu.tr/akademik/muhendislik-fakultesi/bolumler-ve-programlar/bilgisayar-muhendisligi/programlar/lisans-programi/yazilim-muhendisligi ).
 
 Question D: //What rules are in your .gitignore?
+deniz@Denizs-MacBook-Air ~ % touch .gitignore
+deniz@Denizs-MacBook-Air ~ % *.log //ignore all the files that have .log extension.
+deniz@Denizs-MacBook-Air ~ % temp //ignore all the files in the directory named temp. 
 
-
-Question F: //What are all the commits you’ve made on the feature-1 branch? What files (and sub-directories, if any) are listed in your hmk1 directory on the feature-1 branch. What files (and sub-directories if any) are listed in your hmk1 directory on the main branch.
+Question F: //What are all the commits you’ve made on the feature-1 branch? What files (and sub-directories, if any) are listed in your hmk1 directory on the feature-1 branch. What files (and sub-directories if any) are listed in your hmk1 directory on the main branch?
 
 Question J://What are all the commits you’ve made on the feature-2 branch?
 
-Question M://What are the differences between main and the other three branches? Hint: use git diff.
+Question M://What are the differences between the main and the other three branches? Hint: use git diff.
