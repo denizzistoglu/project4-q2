@@ -34,7 +34,7 @@ deniz@Denizs-MacBook-Air ~ % touch .gitignore
 deniz@Denizs-MacBook-Air ~ % *.log //ignore all the files that have .log extension.
 deniz@Denizs-MacBook-Air ~ % temp //ignore all the files in the directory named temp. 
 
-Question F: 
+Question F: //deniz@Denizs-MacBook-Air ~ % git branch feature-2 
 //What are all the commits you’ve made on the feature-1 branch?
 Create homework
 Update homework 
